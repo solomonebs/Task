@@ -7,10 +7,14 @@ QA
 Salesforce
 GIS
 
-
-
+DBA
+IBM
 
 Thank you:)
 
 
+Done my Changes
+
+
 Final copy
+
