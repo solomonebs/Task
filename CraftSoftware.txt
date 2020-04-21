@@ -7,7 +7,7 @@ QA
 Salesforce
 GIS
 
-
-
+DBA
+IBM
 
 Thank you:)
